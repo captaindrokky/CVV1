@@ -21,15 +21,15 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Mauricio Tovar",
-  initials: "BJ",
-  location: "Colonia del Valle, BJ, CDMX",
+  initials: "MT",
+  location: " BJ, CDMX",
   locationLink: "contact@tovarcode.me",
   about:
     "Developer Engineer UX IX",
   summary:
     "Para obtener un puesto desafiante como Asistente de Asesor, donde mi habilidad para comunicarme eficazmente, mi capacidad para organizar información y mi compromiso con la excelencia en el servicio puedan ser utilizados para brindar un apoyo valioso al equipo y a los clientes .",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "",
   contact: {
     email: "contact@tovarcode.me",
     tel: "5523067985",
@@ -46,25 +46,25 @@ export const RESUME_DATA = {
       },
       {
         name: "X",
-        url: "https://x.com/BartoszJarocki",
+        url: "https://x.com/",
         icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Dev F Bootcamp ",
+      degree: "Developer Front End",
+      start: "2022",
+      end: "2023",
     },
   ],
   work: [
     {
-      company: "Parabol",
-      link: "https://parabol.co",
+      company: "VW AUDI CUPRA ",
+      link: "",
       badges: ["Remote"],
-      title: "Senior Full Stack Developer",
+      title: "Client Care",
       logo: ParabolLogo,
       start: "2021",
       end: "2024",
