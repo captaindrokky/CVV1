@@ -22,7 +22,7 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Mauricio Tovar",
   initials: "BJ",
-  location: "Colonia del Vale, BJ, CDMX",
+  location: "Colonia del Valle, BJ, CDMX",
   locationLink: "contact@tovarcode.me",
   about:
     "Developer Engineer UX IX",
