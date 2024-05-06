@@ -22,26 +22,26 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Mauricio Tovar",
   initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  location: "Colonia del Vale, BJ, CDMX",
+  locationLink: "contact@tovarcode.me",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Developer Engineer UX IX",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "Para obtener un puesto desafiante como Asistente de Asesor, donde mi habilidad para comunicarme eficazmente, mi capacidad para organizar información y mi compromiso con la excelencia en el servicio puedan ser utilizados para brindar un apoyo valioso al equipo y a los clientes .",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "contact@tovarcode.me",
+    tel: "5523067985",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/Captaindrokky",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/mauricio-tovar-b5a735259/",
         icon: LinkedInIcon,
       },
       {
