@@ -86,8 +86,11 @@ export const RESUME_DATA = {
   ],
   skills: [
     "JavaScript",
-    "React/Next.js/Remix",
+    "React/Next.js",
     "Figma",
+    "Kotlin",
+    "Photoshop",
+    "Illustrator",
   ],
   projects: [
     {
