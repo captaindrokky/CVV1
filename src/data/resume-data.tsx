@@ -89,4 +89,18 @@ export const RESUME_DATA = {
     "React/Next.js/Remix",
     "Figma",
   ],
+  projects: [
+    {
+      title: "Project 1",
+      description: "Description of project 1",
+      techStack: ["React", "TypeScript"],
+      link: { href: "https://example.com/project1" },
+    },
+    {
+      title: "Project 2",
+      description: "Description of project 2",
+      techStack: ["Next.js", "GraphQL"],
+      link: { href: "https://example.com/project2" },
+    },
+  ],
 } as const;
