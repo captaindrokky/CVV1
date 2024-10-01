@@ -22,7 +22,7 @@ import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 export const RESUME_DATA = {
   name: "Mauricio Tovar",
   initials: "MT",
-  location: "BJ, CDMX",
+  location: "Benito Juarez, CDMX",
   locationLink: "contact@tovarcode.me",
   about: "Developer Engineer UX IX",
   summary: "Para obtener un puesto desafiante como Asistente de Asesor, donde mi habilidad para comunicarme eficazmente, mi capacidad para organizar información y mi compromiso con la excelencia en el servicio puedan ser utilizados para brindar un apoyo valioso al equipo y a los clientes.",
