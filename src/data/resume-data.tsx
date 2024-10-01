@@ -26,7 +26,7 @@ export const RESUME_DATA = {
   locationLink: "contact@tovarcode.me",
   about: "Developer Engineer UX IX",
   summary: "Para obtener un puesto desafiante como Asistente de Asesor, donde mi habilidad para comunicarme eficazmente, mi capacidad para organizar información y mi compromiso con la excelencia en el servicio puedan ser utilizados para brindar un apoyo valioso al equipo y a los clientes.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/u/78090543?v=4",
   personalWebsiteUrl: "",
   contact: {
     email: "contact@tovarcode.me",
